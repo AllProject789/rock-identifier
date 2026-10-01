@@ -7678,7 +7678,11 @@
     "priceRange": "Low value as raw stone; higher as cut architectural slabs",
     "durability": "Low to moderate — porous and acid-sensitive",
     "careTips": "Avoid acidic cleaners; seal if used decoratively; clean with water and mild soap.",
-    "image_urls": []
+    "image_urls": [
+            "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-07/specimen.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-07/macro.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-07/field.jpg"
+    ]
   },
   {
     "date": "2026-10-08",
@@ -7697,7 +7701,11 @@
     "priceRange": "Low value as raw rock; higher as cut building stone",
     "durability": "Low to moderate — reacts with acids and weathers over time",
     "careTips": "Avoid acidic cleaners; brush off loose sediment with a dry brush.",
-    "image_urls": []
+    "image_urls": [
+                "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-08/specimen.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-08/macro.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-08/field.jpg"
+    ]
   },
   {
     "date": "2026-10-09",
@@ -7716,7 +7724,11 @@
     "priceRange": "$1-$15 per specimen",
     "durability": "Low — soft and reacts with acids",
     "careTips": "Avoid acidic cleaners (even vinegar will etch it); handle gently, as it cleaves easily.",
-    "image_urls": []
+    "image_urls": [
+                "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-09/specimen.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-09/macro.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-09/field.jpg"
+    ]
   },
   {
     "date": "2026-10-10",
@@ -7735,7 +7747,11 @@
     "priceRange": "Mainly of educational/collector interest for a field specimen",
     "durability": "Moderate — verify with a scratch test on an inconspicuous spot",
     "careTips": "Clean with a soft dry or slightly damp cloth; avoid harsh chemicals until the material is confirmed.",
-    "image_urls": []
+    "image_urls": [
+             "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-10/specimen.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-10/macro.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-10/field.jpg"
+    ]
   },
   {
     "date": "2026-10-11",
@@ -7754,7 +7770,11 @@
     "priceRange": "Mainly of educational/collector interest for a field specimen",
     "durability": "Moderate — verify with a scratch test on an inconspicuous spot",
     "careTips": "Clean with a soft dry or slightly damp cloth; avoid harsh chemicals until the material is confirmed.",
-    "image_urls": []
+    "image_urls": [
+             "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-11/specimen.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-11/macro.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-11/field.jpg"
+    ]
   },
   {
     "date": "2026-10-12",
@@ -7773,7 +7793,9 @@
     "priceRange": "Mainly of educational/collector interest for a field specimen",
     "durability": "Moderate — verify with a scratch test on an inconspicuous spot",
     "careTips": "Clean with a soft dry or slightly damp cloth; avoid harsh chemicals until the material is confirmed.",
-    "image_urls": []
+    "image_urls": [       "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-12/specimen.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-12/macro.jpg",
+      "https://cdn.jsdelivr.net/gh/AllProject789/rock-identifier@main/rock_of_the_day_images/2026-10-12/field.jpg"]
   },
   {
     "date": "2026-10-13",
